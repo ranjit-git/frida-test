@@ -6,7 +6,7 @@ import com.google.firebase.perf.metrics.Trace;
 import com.scottyab.rootbeer.C1743b;
 import kotlin.p130t.p132d.C3747m;
 
-/* renamed from: com.mega.app.h4.g.a */
+/* renamed from: com.test.app.h4.g.a */
 /* compiled from: Root.kt */
 public final class C0811a {
 
